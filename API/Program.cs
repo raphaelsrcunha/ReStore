@@ -1,3 +1,4 @@
+// ReStore project C# .NET backend and frontend
 using API.Data;
 using Microsoft.EntityFrameworkCore;
 
